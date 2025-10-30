@@ -27,10 +27,10 @@ export function Features() {
           </div>
 
           <div className="group relative">
-            <div className="absolute inset-0 bg-accent/5 rounded-2xl blur-xl group-hover:bg-accent/10 transition-colors" />
-            <div className="relative bg-card border border-border rounded-2xl p-8 hover:border-accent/50 transition-colors">
-              <div className="h-12 w-12 rounded-xl bg-accent/10 flex items-center justify-center mb-6">
-                <Target className="h-6 w-6 text-accent" />
+            <div className="absolute inset-0 bg-primary/5 rounded-2xl blur-xl group-hover:bg-primary/10 transition-colors" />
+            <div className="relative bg-card border border-border rounded-2xl p-8 hover:border-primary/50 transition-colors">
+              <div className="h-12 w-12 rounded-xl bg-primary/10 flex items-center justify-center mb-6">
+                <Target className="h-6 w-6 text-primary" />
               </div>
               <h3 className="text-xl font-semibold mb-3 font-display">Topic-Based</h3>
               <p className="text-muted-foreground leading-relaxed">

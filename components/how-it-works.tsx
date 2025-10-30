@@ -29,7 +29,7 @@ export function HowItWorks() {
             </div>
 
             <div className="relative">
-              <div className="absolute -left-4 top-0 text-6xl font-bold text-accent/10 font-display">2</div>
+              <div className="absolute -left-4 top-0 text-6xl font-bold text-primary/10 font-display">2</div>
               <div className="relative pl-8">
                 <h3 className="text-lg font-semibold mb-2 font-display">Organize</h3>
                 <p className="text-sm text-muted-foreground leading-relaxed">Group related thoughts into topics</p>
