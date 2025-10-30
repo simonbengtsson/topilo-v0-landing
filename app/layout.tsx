@@ -12,10 +12,9 @@ const libreBaskerville = Libre_Baskerville({
 })
 
 export const metadata: Metadata = {
-  title: "Topilo Notes - Capture thousands of thoughts and make them useful",
+  title: "Topilo Notes - Capture thoughts in the thousands",
   description:
-    "A note app reimagined for capturing thousands of thoughts, ideas and plans while providing ways of making them useful.",
-  generator: "v0.app",
+    "Writing notes reimagined for capturing thousands of thoughts, ideas and plans effective and useful.",
 }
 
 export default function RootLayout({

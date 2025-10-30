@@ -16,13 +16,12 @@ export function Hero() {
             Now launched
           </div>
 
-          <h1 className="text-5xl md:text-7xl font-bold tracking-tight leading-tight mb-6 text-balance font-display">
-            Capture thousands of thoughts and make them useful
+          <h1 className=  "text-5xl md:text-7xl font-bold tracking-tight leading-tight mb-6 text-balance font-display">
+            Capture thoughts in the thousands
           </h1>
 
           <p className="text-xl md:text-2xl text-muted-foreground mb-10 max-w-2xl mx-auto text-pretty leading-relaxed">
-            A note app reimagined for capturing thousands of thoughts, ideas and plans while providing ways of making
-            them useful.
+            Writing notes reimagined for capturing thousands of thoughts, ideas and plans effective and useful.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
