@@ -16,7 +16,7 @@ export function Hero() {
             Now launched
           </div>
 
-          <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6 text-balance font-display">
+          <h1 className="text-5xl md:text-7xl font-bold tracking-tight leading-tight mb-6 text-balance font-display">
             Capture thousands of thoughts and make them useful
           </h1>
 
